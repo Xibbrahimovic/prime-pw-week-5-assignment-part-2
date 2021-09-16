@@ -1,0 +1,22 @@
+header {
+  background-color: #0b5d65;
+  color: #f0c926;
+  text-align: center;
+}
+
+main {
+  background-color: #aaaaaa;
+}
+
+.styledimg {
+  background-image: url('record.png');
+  background-repeat: repeat;
+}
+
+body{
+  margin: 0px;
+
+}
+h1{
+
+}
